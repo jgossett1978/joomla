@@ -4,9 +4,9 @@
 
 	<name>Woto Admin</name>
 	<!-- The following elements are optional and free of formatting conttraints -->
-	<creationDate>November 2009</creationDate>
-	<author>John Doe</author>
-	<authorEmail>john.doe@example.org</authorEmail>
+	<creationDate>/creationDate>
+	<author></author>
+	<authorEmail></authorEmail>
 	<authorUrl>http://www.example.org</authorUrl>
 	<copyright>Copyright Info</copyright>
 	<license>License Info</license>
